@@ -7,5 +7,5 @@ for TS and React for a tidy and consistent code base.
 I started out by creating my own custom hook called `useMenu`, this is where all the functionality is controlled for the menu
 and returns `MenuHookInterface`.
 
-I then started separating each component I felt necessary 
+I then started separating each component I felt necessary.
 
