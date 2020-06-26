@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "jsx": "react",
+    "lib": ["es6", "dom"],
+    "moduleResolution": "node",
+    "strict": true,
+    "target": "esnext",
+    "noImplicitAny": false,
+    "typeRoots": [ "./@types", "./node_modules/@types"]
+  },
+  "exclude": ["node_modules"],
+}

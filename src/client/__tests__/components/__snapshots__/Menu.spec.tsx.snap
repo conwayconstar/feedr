@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu component Menu should match snapshot 1`] = `
+<div
+  className="menu-summary"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-6 menu-summary-left"
+      >
+        <span
+          className="count"
+        >
+          4 items
+        </span>
+      </div>
+      <div
+        className="col-6 menu-summary-right"
+      >
+        <span
+          key="ve"
+        >
+          <span
+            className="dietary-count"
+          >
+            2x
+          </span>
+          <span
+            className="dietary"
+          >
+            ve
+          </span>
+        </span>
+        <span
+          key="v"
+        >
+          <span
+            className="dietary-count"
+          >
+            3x
+          </span>
+          <span
+            className="dietary"
+          >
+            v
+          </span>
+        </span>
+        <span
+          key="df"
+        >
+          <span
+            className="dietary-count"
+          >
+            4x
+          </span>
+          <span
+            className="dietary"
+          >
+            df
+          </span>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
